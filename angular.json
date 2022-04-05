@@ -27,6 +27,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/dark.css",
               "src/styles.css"
             ],
             "scripts": []
